@@ -1,0 +1,80 @@
+[
+    {
+        "recipe_id": 1,
+        "rating": 4.5,
+        "total_view": 40,
+        "recipe_name": "Chicken Tikka",
+        "price": 700,
+        "cook": {
+            "name": "Salt Bee",
+            "published_date": "2021-08-24"
+        },
+        "img_url": "https://glebekitchen.com/wp-content/uploads/2016/12/chickentikkakebab.jpg",
+        "recipe_details": "In a bowl, combine chicken pieces with lemon juice and salt. Rub in, cover and refrigerate for 20minutes. This step helps the meat to tenderise, resulting in juicier, chicken pieces. In another bowl, combine ginger, garlic, cumin, paprika, garam masala, cayenne and yogurt. Add in chicken pieces and mix well. Refrigerate for  minimum 4 hours but ideally overnight. To cook, preheat the grill to highest setting. Thread the meat onto wooden skewers and brush with oil.  Put the skewers on a shallow baking tray and grill for approx 6 minutes each side until browned and cooked through.Serve with rice and naan."
+    },
+    {
+        "recipe_id": 2,
+        "rating": 5,
+        "total_view": 30,
+        "recipe_name": "Chicken Kiev",
+        "price": 300,
+        "cook": {
+            "name": "Salt Bee",
+            "published_date": "2021-08-20"
+        },
+        "img_url": "https://natashaskitchen.com/wp-content/uploads/2015/08/Chicken-Kiev-8-600x400.jpg",
+        "recipe_details": "Preheat oven to 400 F and preheat cooking oil in frying pan to 325 F.Place a chicken breast on a cutting board. Use a paring knife to cut a pocket inside the chicken breast.In a bowl add the softened butter, cream cheese, one egg white, 2 tablespoons of the panko, minced tarragon, thyme and parsley. Mix together and transfer to a piping bag.Use the piping bag to fill the chicken with the cheese herb stuffing. Dredge each filled chicken breast in flour, then the beaten egg and then finally the bread crumb coating.Fry in the preheated oil for a few minutes on each side to brown. Once browned on both sides, put the pan in the oven to finish cooking. Internal cooking temperature should come to 160 degrees Fahrenheit.Place the lid on the potatoes and while holding the lid firmly in place, smash the potatoes inside the pot by vigorously shaking the pot.Once done, stir the potatoes to thoroughly coat and check if all of the potatoes are broken. Check for seasoning."
+    },
+    {
+        "recipe_id": 3,
+        "rating": 3.5,
+        "total_view": 45,
+        "recipe_name": "Sandwich chicken",
+        "price": 500,
+        "cook": {
+            "name": "Salt Bee",
+            "published_date": "2021-08-24"
+        },
+        "img_url": "https://realfood.tesco.com/media/images/303-Lunchbox-asian-style-sandwich-LH-9ced66f7-7989-4570-862f-042c9f9ce876-0-1400x919.jpg",
+        "recipe_details": "Cut the chicken breasts in half lengthwise then cut each piece into half widthwise. You should end up with four pieces of the same thickness chicken. Season both sides of the meat with sea salt, freshly cracked pepper, and garlic powder, to taste. Pour the flour onto a flat plate. Whisk the egg and milk together in a bowl. Pour the panko onto a flat plate.Dredge the chicken into the flour; next dip into the egg mixture followed by dipping into the panko crumbs, making sure to get an even coating. Place onto the cooling racks; repeat with the remaining chicken. Place the chicken into the refrigerator for 30 minutes.  Side Note: Don’t skip this step, it helps the panko adhere to the chicken. After the chicken has been in the refrigerator for 30 minutes, remove it and set it on the counter for 15 minutes. Heat half of the oil into a large skillet over medium-high heat. Once the pan is hot, add four pieces of the panko-crusted chicken and cook for 4-5 minutes on the first side, until golden brown. Flip the chicken over and cook for another 3 minutes or until the chicken is golden brown and cooked through. Remove from the skillet and place on a plate with a tin foil tent. Repeat the process with the remaining oil and chicken.Place the coleslaw mix, green onions, and cilantro in a bowl. In another bowl, combine the grated ginger, soy sauce, lime juice, and rice vinegar. Whisk the ingredients while adding the sesame oil into the dressing. Pour the dressing over the coleslaw mixture and toss to coat. Sprinkle with sesame seeds if desired.  Side Note: I made the coleslaw when I started cooking the chicken so it would not get soggy."
+    },
+    {
+        "recipe_id": 4,
+        "rating": 4.5,
+        "total_view": 45,
+        "recipe_name": "Grilled Chicken",
+        "price": 700,
+        "cook": {
+            "name": "Salt Bee",
+            "published_date": "2021-08-24"
+        },
+        "img_url": "https://hips.hearstapps.com/hmg-prod/images/grilled-chicken-horizontal-1532030541.jpg",
+        "recipe_details": "In a medium bowl, whisk together balsamic vinegar, olive oil, brown sugar, garlic, and dried herbs, and season generously with salt and pepper. Reserve ¼ cup.Add chicken to the bowl and toss to combine. Let marinate at least 20 minutes and up to overnight. Preheat grill to medium high. Add chicken and grill, basting with reserved marinade, until cooked through, 6 minutes per side.Garnish with parsley before serving."
+    },
+    {
+        "recipe_id": 5,
+        "rating": 4.5,
+        "total_view": 80,
+        "recipe_name": "Chicken Fry",
+        "price": 900,
+        "cook": {
+            "name": "Salt Bee",
+            "published_date": "2021-08-24"
+        },
+        "img_url": "https://c.ndtvimg.com/2019-05/usn4dnv_fried-chicken_625x300_24_May_19.jpg",
+        "recipe_details": "Ingredients need for chicken fry Chicken (cut into 8 pieces), Oil, Ginger paste, Garlic paste, Salt , Chilli powder, Vinegar, Gram flour, Cumin seeds, Cloves (powdered), Fenugreek seeds (powdered), Peppercorns (powdered), Black cardamoms (powdered), Cumin seeds (powdered), Mustard oil, Lemon twists and coriander.  Prick the chicken in 2-3 places, marinate in the mixture and keep for 3-4 hrs. Heat the oil in a heavy-based pan and put the chicken pieces into it.Deep-fry over a medium flame, till the chicken is tender. It takes 15-20 minutes. Serve garnished with lemon twists and coriander leaves."
+    },
+    {
+        "recipe_id": 6,
+        "rating": 4.5,
+        "total_view": 50,
+        "recipe_name": "Roast Chicken",
+        "price": 700,
+        "cook": {
+            "name": "Salt Bee",
+            "published_date": "2021-08-24"
+        },
+        "img_url": "https://hips.hearstapps.com/hmg-prod/images/roast-chicken-horizontal-1535657907.jpg",
+        "recipe_details": "Heat oven to 190C/fan 170C/gas 5. Have a shelf ready in the middle of the oven without any shelves above it. Scatter 1 roughly chopped onion and 2 roughly chopped carrots over the base of a roasting tin that fits the whole 1 ½ kg chicken, but doesn’t swamp it. Sit the chicken on the vegetables, smother the breast and legs all over with 25g softened butter, then season the outside with salt and pepper. Place in the oven and leave, undisturbed, for 1 hr 20 mins – this will give you a perfectly roasted chicken. To check, pierce the thigh with a skewer and the juices should run clear.Gradually pour in 250ml chicken stock, stirring all the time, until you have a thickened sauce. Simmer for 2 mins, using a wooden spoon to stir, scraping any sticky bits from the tin. Strain the gravy into a small saucepan, then simmer and season to taste. When you carve the bird, add any extra juices to the gravy."
+    }
+]
